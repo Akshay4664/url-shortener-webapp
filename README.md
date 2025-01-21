@@ -6,7 +6,7 @@
 
 ## Docker Image
 
-To pull the Docker image, use the following command:
+To pull the Docker image of spring boot backend, use the following command:
 
 ```bash
 docker pull akshaysharma4664/url-shortener-sb:latest
